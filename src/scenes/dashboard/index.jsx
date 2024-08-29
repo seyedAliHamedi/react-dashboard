@@ -10,7 +10,6 @@ import PersonAddIcon from "@mui/icons-material/PersonAdd";
 
 import LineChart from "../../components/LineChart";
 import BarChart from "../../components/BarChart";
-import PieChart from "../../components/PieChart";
 import GeographyChart from "../../components/GeographyChart";
 
 import StatBox from "./../../components/StatBox";
